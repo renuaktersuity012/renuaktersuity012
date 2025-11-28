@@ -14,7 +14,7 @@
 
 ## 🌷 About Me
 - 🌱 Currently learning **React**
-- 👩‍💻 Projects: [GitHub](https://github.com/renuaktersuity012)
+- 👩‍💻 Projects: [GitHub]([https://github.com/renuaktersuity012](https://github.com/renuaktersuity012?tab=repositories))
 - 📝 Articles: [GitHub Articles](https://github.com/renu-akter-sweety/renu-akter-sweety)
 - 💬 Ask me about **Python Django**
 - 📫 Email: **renuaktersweety@gmail.com**
@@ -25,10 +25,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/renu012"target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
-  </a>
+ 
 </p>
 
 ---
