@@ -14,7 +14,7 @@
 
 ## 🌷 About Me
 - 🌱 Currently learning **React**
-- 👩‍💻 Projects: [GitHub]([https://github.com/renuaktersuity012](https://github.com/renuaktersuity012?tab=repositories))
+- 👩‍💻 Projects: [GitHub](https://github.com/renuaktersuity012?tab=repositories)
 - 📝 Articles: [GitHub Articles](https://github.com/renu-akter-sweety/renu-akter-sweety)
 - 💬 Ask me about **Python Django**
 - 📫 Email: **renuaktersweety@gmail.com**
